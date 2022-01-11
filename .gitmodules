@@ -3,8 +3,8 @@
 	url = https://github.com/LLNL/blt.git
 [submodule "tpl/raja"]
 	path = tpl/raja
-	url = https://github.com/LLNL/RAJA.git
-	branch = develop
+	url = https://github.com/brandonneth/RAJA.git
+	branch = autolayout
 [submodule "tpl/chai"]
 	path = tpl/chai
 	url = https://github.com/LLNL/CHAI.git
